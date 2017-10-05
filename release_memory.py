@@ -1,5 +1,4 @@
 #coding=utf-8
-#python27
 
 from multiprocessing import Pool
 from os import getpid
